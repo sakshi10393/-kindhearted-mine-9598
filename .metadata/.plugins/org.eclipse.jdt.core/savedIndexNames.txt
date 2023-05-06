@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\91620\OneDrive\Desktop\-kindhearted-mine-9598\.metadata\.plugins\org.eclipse.jdt.core
+3858946949.index
+1865797976.index
+4060350527.index
